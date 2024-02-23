@@ -19,7 +19,6 @@ function NYT() {
 
   return (
     <div className='book__container'>
-      <h1>New York Times - Books</h1>
       <div className='books__map'>
         {books.map((book) => {
             const {title, author, description, book_image} = book
