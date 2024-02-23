@@ -1,0 +1,16 @@
+/* Ipad Pro */
+@media (max-width: 1250px) {
+
+    * {
+        max-width: 100%;
+    }
+  }
+
+
+/* Iphone 12 Pro */
+  @media (max-width: 1250px) {
+    * {
+        max-width: 100%;
+    }
+  }
+

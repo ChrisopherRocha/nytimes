@@ -1,5 +1,6 @@
 import './App.css';
 import NYT from './components/NYT';
+import './MediaQuer.css'
 
 function App() {
   return (
